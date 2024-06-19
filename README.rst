@@ -28,7 +28,7 @@ Rims
 
 A true eyecatcher of the Compagnucci were its rims which were screwed
 together by 8pcs ``M2`` bolts. Unfortunately, the disk in these rims
-often broke.
+often broke. Here is an alternative disk I designed which is star shaped.
 
 |FigRimWithStarShapedDisk|
 
