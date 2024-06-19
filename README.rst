@@ -4,7 +4,7 @@ Openucci
 
 |CcByNcSaLicenseBadge|
 
-In the early 2000s, the company Compagnucci released
+In the early 2000s, the company Compagnucci_ released
 an 1/8th scale radio controlled on road model car. On my opininon,
 the car was an engineerging master piece. The quality of its black
 chassis plastic was outstanding. Although I have to admit
@@ -31,6 +31,8 @@ together by 8pcs ``M2`` bolts. Unfortunately, the disk in these rims
 often broke. Here is an alternative disk I designed which is star shaped.
 
 |FigRimWithStarShapedDisk|
+
+.. _Compagnucci: https://www.compagnucci.it/en/
 
 .. |CcByNcSaLicenseBadge| image:: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png
     :target: https://creativecommons.org/licenses/by-nc-sa/4.0
