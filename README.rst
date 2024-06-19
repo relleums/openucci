@@ -2,7 +2,7 @@
 Openucci
 ########
 
-CC BY-NC-SA
+|CcByNcSaLicenseBadge|
 
 In the early 2000s, the company Compagnucci S.p.a. released
 an 1/8th scale radio controlled on road model car. On my opininon,
@@ -28,3 +28,5 @@ A true eyecatcher of the Compagnucci were its rims which were screwed
 together by 8pcs ``M2`` bolts. Unfortunately, the disk in these rims
 often broke.
 
+.. |CcByNcSaLicenseBadge| image:: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png
+    :target: https://creativecommons.org/licenses/by-nc-sa/4.0
