@@ -4,10 +4,10 @@ Openucci
 
 |CcByNcSaLicenseBadge|
 
-In the early 2000s, the company Compagnucci S.p.a. released
+In the early 2000s, the company Compagnucci released
 an 1/8th scale radio controlled on road model car. On my opininon,
 the car was an engineerging master piece. The quality of its black
-chassis plastic material was outstanding. Although I have to admit
+chassis plastic was outstanding. Although I have to admit
 that Compagnucci did not endure the necessary iterations to remove
 the car from some flaws. If you did not realize it yet, I am
 kind of a fan. I learned RC car driving on this car. The electric
